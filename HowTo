@@ -1,0 +1,5 @@
+To create a "requirements.txt" file:
+    pip freeze > requirements.txt
+
+To automatically install pip dependencies from "requirements.txt" file:
+    pip install -r requirements.txt
